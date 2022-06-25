@@ -8,7 +8,4 @@ It supports multiple scenes with moving cameras, PBR materials, and 3 basic ligh
 <br />
 
 ![01](./Screenshots/Screenshot01.bmp)
-
-<br />
-
 ![02](./Screenshots/Screenshot02.bmp)
